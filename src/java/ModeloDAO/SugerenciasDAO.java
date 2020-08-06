@@ -9,6 +9,6 @@ package ModeloDAO;
  *
  * @author TuNombre
  */
-public class SugerenciaDAO {
+public class SugerenciasDAO {
     
 }
